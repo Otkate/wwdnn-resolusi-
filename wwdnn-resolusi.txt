@@ -3,3 +3,4 @@ WWDNN RESOLUSI DI TAHUN 2022
 - Mengupload hasil catatan perkuliahan ke media sosial yaitu twitter 
 - Memahami cara pembuatan web sehingga dapat mendesain, coding halaman web sendiri 
 - Konsisten mempelajari konsep-konsep dari web developer 
+- Membuat Web APP Pengelola pengeluaran dan pemasukkan uang untuk mahasiswa 
