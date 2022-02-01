@@ -2,7 +2,6 @@ RENCANA KONTEN WWDNN
 
 - Konten Git dan GitHub
   * Konsep-Konsep 
-  * Latihan
   
 - Konten Proyek atau Tugas Besar
 - Konten catatan materi dan video
