@@ -3,5 +3,7 @@ RENCANA KONTEN WWDNN
 - Konten Git dan GitHub
   * Konsep-Konsep 
   * Latihan
+  * Tanya jawab sama audiens 
+  * Upload bukan hanya di twitter melainkan di instagram juga 
   
 - Konten Proyek atau Tugas Besar
